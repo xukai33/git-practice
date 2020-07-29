@@ -4,6 +4,6 @@ void output(const char * text) {
 }
 
 int main(){
-	printf("Hell World!");
+	printf("233333");
 	return 0;
 } 
